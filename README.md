@@ -16,13 +16,11 @@ Repositório para o Projeto Final da disciplina de Tecnologias de Scripting e Au
 ## Recursos Principais
 
  ### Conversão de Unidades
-      Suporte para conversão de unidades de medida, como comprimento, massa, temperatura, etc.
+      Suporte para conversão de unidades de medida, comprimento, tempo e bytes.
 
  ### Conversão de moedas com taxas atualizadas
-
- ### Conversão de Formatos
-      Conversão de formatos de arquivo, como texto para CSV, CSV para JSON, entre outros.
-
+      Dólar, Euro, Real e Iene.
+      
  ###  Guarda Output em Arquivo de Texto
        Após a conversão, os resultados são automaticamente gravados em um arquivo de texto (.txt), proporcionando uma forma fácil de rever e compartilhar os resultados.
 
