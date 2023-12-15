@@ -176,11 +176,6 @@ HorasDia=$(date +%T)
 
 #Função para Converter Moedas
 
-    ##Função para converter euro para real
-    euro_real(){
-        local euro="$1"
-        local real=$(echo "scale=3; $euro * 5.35" | bc)
-
 
 # Script Principal
 echo "
